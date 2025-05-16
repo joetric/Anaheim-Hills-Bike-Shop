@@ -16,12 +16,14 @@
 <?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
-<img src="img_gen/wr.gif" style="float:right;" />
 <h1>Anaheim Weather Forecast </h1>
 <p>
-<a href="http://www.weatherroom.com/forecast/92807.html" target="_blank">
-<img src="http://www.weatherroom.com/cgi-bin/weather.cgi?forecast=zone&hwvtc=black&hwvbg=white&pands=92807&config=png&alt=hwizone&daysonly=1" alt="Loading..." width="300" height="200" border="0" class="left" />
-</a>
+<!-- start weather widget code-->
+<a class="weatherwidget-io" href="https://forecast7.com/en/33d84n117d91/anaheim/?unit=us" data-label_1="ANAHEIM" data-label_2="WEATHER" data-theme="original" >ANAHEIM WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+<!-- end weather widget code-->
 </p>
 
 </div>

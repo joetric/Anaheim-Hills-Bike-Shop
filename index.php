@@ -16,7 +16,7 @@
 <?php printflag(); ?>
 
 <div id="container">
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 <div class="content">
 <img src="img_hom/home-1a.jpg" alt="20% off any new bike of $150 or more!" width="360" height="300" border="0" /><img src="img_hom/home-1b.jpg" alt="Call us at (714) 779-7521" width="185" height="300" border="0" />
 <img src="img_hom/home-2.jpg" alt="20% off parts and accessories with purchase of at least $50!" width="545" height="80" />

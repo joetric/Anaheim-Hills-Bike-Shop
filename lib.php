@@ -1,4 +1,5 @@
 <?php
+
 // INI SETTINGS
 ini_set("arg_separator.output","&amp;");
 	//makes documents W3C compliant

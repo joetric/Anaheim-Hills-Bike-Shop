@@ -13,7 +13,7 @@
 
 <div id="container">
 
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
 <img class="right" width="100" height="64" src="img_gen/stock_w100_clock.jpg" />

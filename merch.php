@@ -15,7 +15,7 @@
 
 <div id="container">
 
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
 <div class="mini"><strong>Products:</strong><a href="#a1"> Bikes, Components &amp; Accessories</a>, <a href="#a2">Tires</a>, <a href="#a3">Shocks &amp; Forks</a>

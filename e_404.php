@@ -13,7 +13,7 @@
 
 <div id="container">
 
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
 <h1>Error: File Not Found</h1>

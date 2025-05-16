@@ -14,7 +14,7 @@
 
 <div id="container">
 
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
 

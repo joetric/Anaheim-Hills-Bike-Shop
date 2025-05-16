@@ -13,7 +13,7 @@
 
 <div id="container">
 
-<?php printsidebar($PHP_SELF); ?>
+<?php printsidebar($_SERVER['PHP_SELF']); ?>
 
 <div class="content">
 <img src="img_gen/wr.gif" style="float:right;" />

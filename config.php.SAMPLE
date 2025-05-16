@@ -1,0 +1,11 @@
+<?php
+//DEFINE CONSTANTS (DATABASE)
+define("DB_HOST","localhost");
+define("DB_USER","username-here");
+define("DB_PASS","password-here");
+define("DB_DB","ahb_dev");
+
+//DEFINE CONSTANTS
+define("UPDATE_USER","username-here");
+define("UPDATE_HASH","hash-here");
+?>

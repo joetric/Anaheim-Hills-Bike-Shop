@@ -1,0 +1,196 @@
+/*  COLOR PALETTE
+	#0066AA - blue: h1, content link, rollover link (default)
+	#FBDC99 - creme: background, rollover link ind.
+	#FFBB00	- orange: accent, content link hover, content link active
+*/
+
+body {
+	margin: 0px 0px 0px 0px;
+	text-align: center;
+	background: #FBDC99 url(img_gen/bgnd_match_FBDC99.gif);
+	}
+.grid table{
+	border: 1px solid #000000;
+	}
+.grid td{
+	border-bottom: 1px solid #999999;
+	}
+h1 {
+	text-align:left;
+	color: #0066AA;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 15px;
+	margin: 0 0 5px 0;
+	padding: 0;
+	line-height:normal;
+}
+
+.mini {
+	font-size: 10px;
+}
+.coupon{
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: small;
+	float:left;
+	padding: 5px;
+	margin: 12px 2px 2px 2px;
+	width: 240px;
+	line-height: normal;
+	border: 1px dotted #000000;
+	height: 150px;
+	}
+.couponE{
+	text-align:center;
+	background-color: #FFFFFF;
+	float:left;
+	padding: 5px;
+	margin: 12px 2px 2px 2px;
+	width: 400px;
+	line-height: normal;
+	border: 1px dotted #000000;
+	}
+
+.content a:link,
+.content a:visited{
+	color: #0066AA;
+	text-decoration: underline;
+	}
+.content a:hover,
+.content a:active{
+	color: #FFBB00;
+	text-decoration: underline;
+	}
+
+.form input,
+.form select,
+.form textarea{
+	margin: 0 0 0 5px;
+	padding: 1px;
+	border: 1px solid #000000;
+	font-size: small;
+	}
+#container {
+	padding: 5px 5px 25px 5px;
+	line-height: 150%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	text-align: left;
+	width: 720px;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+	}
+
+img.flag {
+	margin: 5px 0 5px 0;
+	padding:0;
+	border: 1px solid #000000;
+	}
+
+.content {
+	float: right;
+	text-align: left;
+	padding: 0;
+	background-color: #FFFFFF;
+	color: #000000;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: small;
+	margin-right: 5px;
+	width: 545px;
+	}
+
+.content p {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	line-height: 145%;
+	text-align: left;
+	margin: 0;
+	padding-bottom: 20px;
+	}
+.content img.right {
+	border: 1px solid #000000;
+	vertical-align: text-top;
+	margin: 0 0 5px 10px;
+	float: right;
+	}
+.content img.left {
+	border: 1px solid #000000;
+	vertical-align: text-top;
+	margin: 0 10px 5px 0;
+	float: left;
+	}
+.content ul{
+	margin: 0;
+	padding: 0 0 0 20px;
+	line-height: 120%;
+	}
+.link-note {
+	color: #666666;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: x-small;
+	line-height: 150%;
+	padding: 2px;
+	margin-bottom: 15px;
+	}
+ul.rollmenu {
+	list-style-type: none;
+    color: #000000;
+	margin: 0 0 5px 0;
+    padding: 0;
+	float: left;
+	width: 150px;
+	}
+ul.rollmenu img{
+	margin: 10px 0 0 0;
+	border: 0;
+	vertical-align:bottom;
+	}
+ul.rollmenu li {
+	line-height: 140%; /* reccomended min. is 130% */
+	font-size: small;
+    margin: 0 0 1px 0;
+    padding: 0;
+	}
+ul.rollmenu ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	}
+ul.rollmenu li a {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 9pt;
+    text-decoration: none;
+	background-color: #0066AA;
+    color: #FFFFFF;
+    padding: 0 2px 0 2px;
+    width: 100%;
+    display: block;
+	}
+ul.rollmenu a.ind {
+	color: #000000;
+    background-color: #FFBB00;
+	}
+ul.rollmenu a.sub {
+	font-weight: normal;
+	font-size: 9pt;
+	background-color: #EEEEEE;
+    color: #000000;
+	}
+ul.rollmenu a.subind {
+	font-weight: normal;
+	font-size: 9pt;
+	background-color: #FFBB00;
+    color: #000000;
+	}
+html>body ul.rollmenu a {width: auto; height: auto;}
+ul.rollmenu a:hover
+ {
+	text-decoration: none;
+	color: #000000;
+    background-color: #FBDC99;
+	}

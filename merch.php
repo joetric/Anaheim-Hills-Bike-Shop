@@ -1,0 +1,161 @@
+<?php require('lib.php');?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Free Agent, Gary Fisher, Klein, Pinarello, Redline, RockShox, Trek" />
+<meta name="description" content="Brand names like Trek, Gary Fisher, Klein, Pinarello, and more!" />
+<title>Products | Anaheim Hills Bike Shop</title>
+<link rel="stylesheet" href="styles-site.css" type="text/css" />
+</head>
+
+<body>
+
+<?php printflag(); ?>
+
+<div id="container">
+
+<?php printsidebar($PHP_SELF); ?>
+
+<div class="content">
+<div class="mini"><strong>Products:</strong><a href="#a1"> Bikes, Components &amp; Accessories</a>, <a href="#a2">Tires</a>, <a href="#a3">Shocks &amp; Forks</a>
+</div>
+<h1><br /><a name="a1" id="a1" />Bicycles, Components, &amp; Accessories </h1>
+<div class="grid">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www2.trekbikes.com/" target="_blank"><img src="img_man/trek.gif" alt="Trek" width="120" height="17" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www2.trekbikes.com/">Trek</a></b>
+	<br />
+	<span class="mini">Road, Mountain &amp; Hybrid Bikes; Helmets, Clothing, &amp; Accessories</span></span></td>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.fisherbikes.com/" target="_blank"><img src="img_man/garyf.gif" alt="Gary Fisher" width="120" height="11" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><a href="http://www.fisherbikes.com/" target="_blank"><b>Gary Fisher </b></a>
+	<br />
+	<span class="mini">Mountain &amp; Hybrid Bikes</span>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.kleinbikes.com/" target="_blank"><img src="img_man/klein.gif" alt="Klein" width="98" height="16" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www.kleinbikes.com/" target="_blank">Klein</a></b>
+	<br />
+	<span class="mini">Road &amp; Mountain Bikes</span>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td height="60" align="center"><a href="http://www.pinarello.com/" target="_blank"><img src="img_man/pinar.gif" alt="Pinarello" width="120" height="31" border="0" /></a></td>
+    <td height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www.pinarello.com/" target="_blank">Pinarello</a></b>
+	<br />
+	<span class="mini">Bikes, Components, Clothing, Accessories</span>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.redlinebicycles.com/" target="_blank"><img src="img_man/redli.gif" alt="Redline" width="120" height="47" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www.redlinebicycles.com/" target="_blank">Redline</a></b>
+	<br />
+	<span class="mini">Road, Mountain, &amp; BMX Bikes</span></td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.freeagentbmx.com/" target="_blank"><img src="img_man/freea.gif" alt="Free Agent" width="120" height="41" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www.freeagentbmx.com/" target="_blank">Free Agent</a></b>
+			<br />
+		  <span class="mini">BMX Bikes</span>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.campagnolo.com/" target="_blank"><img src="img_man/campa.gif" alt="Campagnolo" width="120" height="41" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60">
+		<b><a href="http://www.campagnolo.com/" target="_blank">Campagnolo<br />
+		</a></b>
+		<span class="mini">Clothing, Components, &amp; Accessories </span>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://bike.shimano.com/" target="_blank"><img src="img_man/shima.gif" alt="Shimano" width="120" height="18" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://bike.shimano.com/" target="_blank">Shimano</a></b>
+	<br />
+	<span class="mini">Components</span></td>
+	</td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.spinergy.com/" target="_blank"><img src="img_man/spine.gif" alt="Spinergy" width="120" height="26" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://www.spinergy.com/" target="_blank">Spinergy</a></b>
+	<br />
+	<span class="mini">Wheels</span></td>
+	</td>
+  </tr>
+</table>
+</div>
+<h1>
+	<br />
+	<a name="a2" id="a2" />Tires
+</h1>
+<div class="grid">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td width="140" height="60" align="center">&nbsp;</td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60">
+		<b>Victoria</b></td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://www.conti-online.com/generator/www/de/en/continental/bicycle/general/home/index_en.html" target="_blank"><img src="img_man/conti.gif" alt="Continental" width="120" height="41" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60">
+		<a href="http://www.conti-online.com/generator/www/de/en/continental/bicycle/general/home/index_en.html" target="_blank"><b>Continental</b></a></td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="60" align="center"><a href="http://two-wheels.michelin.com/" target="_blank"><img src="img_man/miche.gif" alt="Michelin" width="120" height="41" border="0" /></a></td>
+    <td width="20" height="60">&nbsp;</td>
+    <td height="60"><b><a href="http://two-wheels.michelin.com/" target="_blank">Michelin</a></b></td>
+  </tr>
+</table>
+</div>
+
+<h1>
+	<br />
+	<a name="a3" id="a3" />Shocks &amp; Forks</h1>
+<div class="grid">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="middle">
+    <td width="140" height="64" align="center"><a href="http://www.sram.com/en/rockshox/" target="_blank"><img src="img_man/rocks.gif" alt="RockShox" width="50" height="52" border="0" /></a></td>
+    <td width="20" height="64">&nbsp;</td>
+    <td height="64"><a href="http://www.sram.com/en/rockshox/" target="_blank"><b>RockShox</b></a></td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="64" align="center"><a href="http://www.answerproducts.com/" target="_blank"><img src="img_man/manit.jpg" alt="Manitou" width="100" height="57" border="0" /></a></td>
+    <td width="20" height="64">&nbsp;</td>
+    <td height="64"><b><a href="http://www.answerproducts.com/" target="_blank">Manitou</a></b></td>
+  </tr>
+  <tr valign="middle">
+    <td width="140" height="64" align="center"><a href="http://www.marzocchi.com/spa/mtb/?LN=UK&Sito=usa-mtb" target="_blank"><img src="img_man/marzo.gif" alt="Marzocchi" width="100" height="57" border="0" /></a></td>
+    <td width="20" height="64">&nbsp;</td>
+    <td height="64"><a href="http://www.marzocchi.com/spa/mtb/?LN=UK&Sito=usa-mtb" target="_blank"><b>Marzocchi</b></a></td>
+  </tr>
+</table>
+</div>
+
+</div>
+
+
+<div style="clear: both;">
+</div>
+
+</div>
+
+
+<?php printfooter();?>
+
+</body>
+</html>

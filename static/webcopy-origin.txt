@@ -1,0 +1,176 @@
+Uri: http://localhost/about_hr.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\about_hr.php.html
+Content Type: text/html
+
+Uri: http://localhost/about_loc.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\about_loc.php.html
+Content Type: text/html
+
+Uri: http://localhost/contact.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\contact.php.html
+Content Type: text/html
+
+Uri: http://localhost/img_gen/bgnd_match_FBDC99.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\bgnd_match_FBDC99.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_gen/flagB_2_h70.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\flagB_2_h70.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/mapquest.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\mapquest.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_gen/stock_w100_01.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_01.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/stock_w100_02.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_02.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/stock_w100_03.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_03.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/stock_w100_arrow.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_arrow.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/stock_w100_clock.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_clock.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_gen/stock_w100_map.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_gen\stock_w100_map.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_hom/home-1a.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_hom\home-1a.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_hom/home-1b.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_hom\home-1b.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_hom/home-2.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_hom\home-2.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_hom/home-3.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_hom\home-3.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_man/campa.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\campa.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/conti.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\conti.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/freea.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\freea.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/garyf.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\garyf.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/klein.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\klein.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/manit.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\manit.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_man/marzo.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\marzo.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/miche.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\miche.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/pinar.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\pinar.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/redli.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\redli.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/rocks.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\rocks.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/shima.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\shima.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/spine.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\spine.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_man/trek.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_man\trek.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_sp/bci.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_sp\bci.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_sp/ocw.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_sp\ocw.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_tu/040.gif
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_tu\040.gif
+Content Type: image/gif
+
+Uri: http://localhost/img_tu/070.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_tu\070.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/img_tu/110.jpg
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\img_tu\110.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/index.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\index.php.html
+Content Type: text/html
+
+Uri: http://localhost/merch.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\merch.php.html
+Content Type: text/html
+
+Uri: http://localhost/merch_maps.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\merch_maps.php.html
+Content Type: text/html
+
+Uri: http://localhost/res.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\res.php.html
+Content Type: text/html
+
+Uri: http://localhost/res_clubs.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\res_clubs.php.html
+Content Type: text/html
+
+Uri: http://localhost/res_mtbtr.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\res_mtbtr.php.html
+Content Type: text/html
+
+Uri: http://localhost/serv.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\serv.php.html
+Content Type: text/html
+
+Uri: http://localhost/styles-site.css
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\styles-site.css
+Content Type: text/css
+
+Uri: http://localhost/weather.php
+File Name: C:\Downloaded Web Sites\ahbikes\localhost\weather.php.html
+Content Type: text/html
+
